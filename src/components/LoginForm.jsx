@@ -37,7 +37,7 @@ const LoginForm = () => {
     <div className="wrapper">
       <div className="form">
         <h4 className="welcome">Welcome to,</h4>
-        <h1 className="title">SUYAN iChat</h1>
+        <h1 className="title">Suyan iChat</h1>
         <form onSubmit={handleSubmit}>
           <input
             type="text"
